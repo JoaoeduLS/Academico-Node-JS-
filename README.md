@@ -1,5 +1,18 @@
 # Academico
 
+### git
+
+```bash
+# Iniciar um projeto
+git init
+# Adicionar o arquivos modificados
+git add .
+# Mensagem da atualização
+git commit -m "mensagem"
+# Enviar para o github
+git push
+```
+
 ### Iniciar um projeto.
 
     npm init adonis-ts-app@latest [nome]
