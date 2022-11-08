@@ -125,11 +125,11 @@ export default class extends BaseSeeder {
         matricula: '12345',
         cpf: '001.002.003-04',
         salario: 2500,
-        nome: 'Hugo',
-        email: 'hugo@gmail.com',
+        nome: 'Joao',
+        email: 'joaoeduardo.lsilva@gmail.com',
         idade: 20,
-        telefone: 61991862235,
-        endereco: 'QNO 7 Conjunto F',
+        telefone: 61986395265,
+        endereco: 'QNQ 2 Conjunto 1',
       },
     ])
     // Write your database queries inside the run method
