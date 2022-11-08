@@ -55,4 +55,9 @@ export default class AlunoValidator {
     maxLength: 'o número máximo de caractéres do campo {{ field }} é de {{ options.maxLength }}',
     minLength: 'o número máximo de caractéres do campo {{ field }} é de {{ options.minLength }}',
   }
+
+  //metodo do professor
+  /*public messages: CustomMessages={
+    required:'O campo {{field}} e obrigatorio'
+  }*/
 }

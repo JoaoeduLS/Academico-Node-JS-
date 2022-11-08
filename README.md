@@ -268,3 +268,15 @@ export default class AlunoValidator {
   public messages: CustomMessages = {}
 }
 ```
+
+### Autenticaçao
+
+node i @adonisjs/auth
+node ace configure @adonisjs/auth
+Lucid
+API_TOKEN
+yes-migration
+database
+yes- migration de novo
+
+npm i phc-argon2
